@@ -18,7 +18,7 @@ body {
 }
 
 main {
-  background: url('/img/iphone.webp') no-repeat;
+  background: url('img/iphone.webp') no-repeat;
   background-size: contain;
   width: 320px;
   height: 640px;
@@ -58,7 +58,7 @@ footer {
   align-items: center;
 
   & button {
-    background: url('/img/tinder-icons.webp') no-repeat;
+    background: url('img/tinder-icons.webp') no-repeat;
     background-position: 0px 0px;
     background-size: 175px;
     height: 32px;
